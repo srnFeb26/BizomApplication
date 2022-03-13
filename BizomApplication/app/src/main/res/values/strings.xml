@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BizomApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="claim_date">Claim Date :</string>
+    <string name="dummy_date">2020-11-03</string>
+    <string name="from_district">From District*</string>
+    <string name="delhi">DELHI</string>
+    <string name="from_city">From City</string>
+    <string name="to_district">To District*</string>
+    <string name="to_city">To City</string>
+    <string name="mode_of_travel">Model of Travel*</string>
+    <string name="company_vehicle">Company Vehicle</string>
+    <string name="class_of_travel">Class of Travel*</string>
+    <string name="na">NA</string>
+    <string name="kms">KMs</string>
+    <string name="rate">Rate (in Rs.)</string>
+    <string name="remark">Remark</string>
+    <string name="expense">Expense</string>
+    <string name="add_claim_item">Add Claim Item</string>
+    <string name="no_of_days">No. of Days</string>
+    <string name="base_amount">Base Amount (in Rs.)</string>
+    <string name="tax">Tax (in Rs.)</string>
+    <string name="district">District*</string>
+    <string name="city">City</string>
+    <string name="mode_of_local_conveyance">Mode of Local Conveyance*</string>
+    <string name="total_kms">Total KMs</string>
+    <string name="view_more">View More</string>
+    <string name="claim_type">Claim Type :</string>
+    <string name="expense_amount">Expense Amount :</string>
+    <string name="remark_">Remark :</string>
+</resources>

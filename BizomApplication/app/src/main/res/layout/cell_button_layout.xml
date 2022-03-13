@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/add_claim"
+        style="@style/custom_button"
+        android:text="@string/add_claim_item" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="20dp"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/added_claims_recycler"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>
